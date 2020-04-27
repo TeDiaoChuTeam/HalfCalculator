@@ -1,0 +1,55 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 进制转换 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/进制转换.res" /d "_DEBUG" /d "_AFXDLL" "C:\Documents and Settings\Administrator\桌面\十_进制转换\进制转换.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPEF.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/进制转换.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\Administrator\桌面\十_进制转换\LINK_STACK.cpp"
+"C:\Documents and Settings\Administrator\桌面\十_进制转换\SEQUENCE_QUEUE.cpp"
+"C:\Documents and Settings\Administrator\桌面\十_进制转换\进制转换.cpp"
+"C:\Documents and Settings\Administrator\桌面\十_进制转换\进制转换Dlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPEF.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF0.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/进制转换.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\Administrator\桌面\十_进制转换\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF0.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF1.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/进制转换.pdb" /debug /machine:I386 /out:"Debug/进制转换.exe" /pdbtype:sept 
+".\Debug\LINK_STACK.obj"
+".\Debug\SEQUENCE_QUEUE.obj"
+".\Debug\StdAfx.obj"
+".\Debug\进制转换.obj"
+".\Debug\进制转换Dlg.obj"
+".\Debug\进制转换.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPF1.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+LINK_STACK.cpp
+SEQUENCE_QUEUE.cpp
+C:\Documents and Settings\Administrator\桌面\十_进制转换\SEQUENCE_QUEUE.cpp(71) : warning C4244: '=' : conversion from 'double' to 'char', possible loss of data
+进制转换.cpp
+进制转换Dlg.cpp
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+进制转换.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

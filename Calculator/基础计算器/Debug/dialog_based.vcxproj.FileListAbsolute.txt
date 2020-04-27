@@ -1,0 +1,6 @@
+E:\课程文档及作业\软件工程实践\计算机mfc\计算机mfc\科学计算器1\基础计算器\Debug\dialog_based.exe
+E:\课程文档及作业\软件工程实践\计算机mfc\计算机mfc\科学计算器1\基础计算器\Debug\dialog_based.pdb
+E:\课程文档及作业\软件工程实践\计算机mfc\计算机mfc\科学计算器1\基础计算器 - 副本\Debug\dialog_based.exe
+E:\课程文档及作业\软件工程实践\计算机mfc\计算机mfc\科学计算器1\基础计算器 - 副本\Debug\dialog_based.pdb
+E:\课程文档及作业\软件工程实践\两人项目\Calculator\基础计算器\Debug\dialog_based.exe
+E:\课程文档及作业\软件工程实践\两人项目\Calculator\基础计算器\Debug\dialog_based.pdb

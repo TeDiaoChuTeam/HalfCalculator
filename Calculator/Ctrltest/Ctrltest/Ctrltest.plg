@@ -1,0 +1,27 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Ctrltest - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP8F.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/Ctrltest.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ   /c 
+"D:\Program Files\Microsoft Visual Studio\MyProjects\Ctrltest\CtrltestDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP8F.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Ctrltest.pdb" /debug /machine:I386 /out:"Debug/Ctrltest.exe" /pdbtype:sept  ".\Debug\Ctrltest.obj" ".\Debug\CtrltestDlg.obj" ".\Debug\StdAfx.obj" ".\Debug\Ctrltest.res" "
+<h3>Output Window</h3>
+Compiling...
+CtrltestDlg.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Ctrltest.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

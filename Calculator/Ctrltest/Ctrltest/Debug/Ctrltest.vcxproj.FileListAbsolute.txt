@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Ctrltest\Ctrltest\Debug\Ctrltest.exe
+C:\Users\Administrator\Desktop\Ctrltest\Ctrltest\Debug\Ctrltest.pdb
+C:\Users\Administrator\Desktop\Calculator\Ctrltest\Ctrltest\Debug\Ctrltest.exe
+C:\Users\Administrator\Desktop\Calculator\Ctrltest\Ctrltest\Debug\Ctrltest.pdb
+E:\课程文档及作业\软件工程实践\两人项目\Calculator\Calculator\Ctrltest\Ctrltest\Debug\Ctrltest.exe
+E:\课程文档及作业\软件工程实践\两人项目\Calculator\Calculator\Ctrltest\Ctrltest\Debug\Ctrltest.pdb
+E:\课程文档及作业\软件工程实践\两人项目\Calculator\Ctrltest\Ctrltest\Debug\Ctrltest.exe
+E:\课程文档及作业\软件工程实践\两人项目\Calculator\Ctrltest\Ctrltest\Debug\Ctrltest.pdb

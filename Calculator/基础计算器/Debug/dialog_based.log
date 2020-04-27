@@ -1,0 +1,10 @@
+﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  StdAfx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
+  tahir.cpp
+  dialog_basedDlg.cpp
+  dialog_based.cpp
+E:\课程文档及作业\软件工程实践\两人项目\Calculator\基础计算器\dialog_based.cpp(56,2): warning C4996: 'CWinApp::Enable3dControlsStatic': CWinApp::Enable3dControlsStatic is no longer needed. You should remove this call.
+  正在生成代码...
+  dialog_based.vcxproj -> E:\课程文档及作业\软件工程实践\两人项目\Calculator\基础计算器\.\Debug\dialog_based.exe
